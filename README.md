@@ -1,4 +1,6 @@
 # electron-quick-start
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsolariot%2FrIoT-electron.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsolariot%2FrIoT-electron?ref=badge_shield)
+
 
 **Clone and run for a quick way to see Electron in action.**
 
@@ -43,3 +45,6 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsolariot%2FrIoT-electron.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsolariot%2FrIoT-electron?ref=badge_large)
